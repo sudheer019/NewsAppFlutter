@@ -1,6 +1,6 @@
-# flutter_application_1
+# NewsAppFlutter With Bloc Pattren
 
-A new Flutter project.
+A new Flutter project NewsApp.using Statemanagement system of Bloc(Business Logic) to fetch and display the news .
 
 ## Getting Started
 
